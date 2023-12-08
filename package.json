@@ -1,0 +1,19 @@
+{
+  "name": "testing-app",
+  "version": "1.0.0",
+  "description": "Test APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch database.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository": "https://github.com/zinitdev/Testing-App.git",
+  "keywords": [
+    "testing"
+  ],
+  "author": "zinitdev",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

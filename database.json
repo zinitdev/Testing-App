@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "Testing APIs",
+      "author": "zinitdev",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "javascript",
+      "author": "zinitdev"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
